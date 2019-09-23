@@ -1,3 +1,6 @@
+https://juejin.im/post/5d7f702ce51d4561f777e258?utm_source=gold_browser_extension 
+多子系统集成，类似也起ERP中成本、仓库、订单等多个子系统，由一个大的系统集成
+
 [![Build Status](https://travis-ci.org/joeldenning/coexisting-vue-microfrontends.svg?branch=master)](https://travis-ci.org/joeldenning/coexisting-vue-microfrontends)
 
 # Coexisting Vue Microfrontends
